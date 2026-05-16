@@ -129,7 +129,7 @@ const TRANSLATIONS = {
         "footer.col2.l2":  "Schilderwerk",
         "footer.col2.l3":  "Renovatie",
         "footer.col2.l4":  "Badkamers & douches",
-        "footer.col2.l5":  "Sierpleister",
+        "footer.col2.l5":  "Badkamerrenovatie",
         "footer.col3.heading": "Bedrijf",
         "footer.col3.l1":  "Over ons",
         "footer.col3.l2":  "Projecten",
@@ -148,9 +148,9 @@ const TRANSLATIONS = {
         /* ---------- About page ---------- */
         "about.crumb":      "Over ons",
         "about.title.l1":   "Ambacht,",
-        "about.title.l2":   "verfijning,",
+        "about.title.l2":   "detail,",
         "about.title.l3":   "vertrouwen.",
-        "about.lead":       "Noble Finish is opgebouwd rond één principe: dat een goede afwerking de basis is van elk premium interieur. Wij combineren traditioneel ambacht met moderne technieken en heldere communicatie.",
+        "about.lead":       "Noble Finish staat voor premium afwerking én renovatie, strak geregeld van begin tot eind. Wij combineren vakmanschap met moderne technieken en heldere communicatie, zodat u precies weet waar u aan toe bent.",
 
         "about.story.label": "Ons verhaal",
         "about.story.title.l1": "Topafwerking,",
@@ -259,7 +259,7 @@ const TRANSLATIONS = {
         "contact.info.phone.label": "Telefoon",
         "contact.info.email.label": "E-mail",
         "contact.info.hours.label": "Openingstijden",
-        "contact.info.hours.value": "Ma t/m vr · 08:00 – 17:30\nZa · op afspraak",
+        "contact.info.hours.value": "Ma t/m vr · 08:00 – 17:30\nZa · op afspraak\nZo · op afspraak",
         "contact.info.kvk.label":   "Bedrijfsgegevens",
         "contact.info.kvk.value":   "KVK 97213624\nVestigingsnr. 000062471775",
 
@@ -408,7 +408,7 @@ const TRANSLATIONS = {
         "footer.col2.l2":  "Painting",
         "footer.col2.l3":  "Renovation",
         "footer.col2.l4":  "Bathrooms & showers",
-        "footer.col2.l5":  "Decorative plaster",
+        "footer.col2.l5":  "Bathroom renovation",
         "footer.col3.heading": "Company",
         "footer.col3.l1":  "About us",
         "footer.col3.l2":  "Projects",
@@ -427,9 +427,9 @@ const TRANSLATIONS = {
         /* ---------- About page ---------- */
         "about.crumb":      "About",
         "about.title.l1":   "Craft,",
-        "about.title.l2":   "refinement,",
+        "about.title.l2":   "detail,",
         "about.title.l3":   "trust.",
-        "about.lead":       "Noble Finish is built around one principle: that a good finish is the foundation of every premium interior. We combine traditional craft with modern techniques and clear communication.",
+        "about.lead":       "Noble Finish stands for premium finishing and renovation, tightly managed from start to finish. We combine craftsmanship with modern techniques and clear communication, so you know exactly where you stand.",
 
         "about.story.label": "Our story",
         "about.story.title.l1": "Top finishing,",
@@ -538,7 +538,7 @@ const TRANSLATIONS = {
         "contact.info.phone.label": "Phone",
         "contact.info.email.label": "Email",
         "contact.info.hours.label": "Opening hours",
-        "contact.info.hours.value": "Mon – Fri · 08:00 – 17:30\nSat · by appointment",
+        "contact.info.hours.value": "Mon – Fri · 08:00 – 17:30\nSat · by appointment\nSun · by appointment",
         "contact.info.kvk.label":   "Company details",
         "contact.info.kvk.value":   "KVK 97213624\nEstablishment no. 000062471775",
 
